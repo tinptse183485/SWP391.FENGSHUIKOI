@@ -1,0 +1,15 @@
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\bin\Debug\net6.0\FungShuiKoi_DAO.deps.json
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\bin\Debug\net6.0\FungShuiKoi_DAO.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\bin\Debug\net6.0\FungShuiKoi_DAO.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\bin\Debug\net6.0\FengShuiKoi_BO.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\bin\Debug\net6.0\FengShuiKoi_BO.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.csproj.AssemblyReference.cache
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.AssemblyInfoInputs.cache
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.AssemblyInfo.cs
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.csproj.CoreCompileInputs.cache
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShui.DDE0DE64.Up2Date
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\refint\FungShuiKoi_DAO.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\FungShuiKoi_DAO.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_DAO\obj\Debug\net6.0\ref\FungShuiKoi_DAO.dll

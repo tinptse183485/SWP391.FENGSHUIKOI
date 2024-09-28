@@ -1,0 +1,17 @@
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FungShuiKoi_Repository.deps.json
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FungShuiKoi_Repository.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FungShuiKoi_Repository.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FengShuiKoi_BO.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FungShuiKoi_DAO.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FungShuiKoi_DAO.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\bin\Debug\net6.0\FengShuiKoi_BO.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.csproj.AssemblyReference.cache
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.AssemblyInfoInputs.cache
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.AssemblyInfo.cs
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.csproj.CoreCompileInputs.cache
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShui.6D892671.Up2Date
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\refint\FungShuiKoi_Repository.dll
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\FungShuiKoi_Repository.pdb
+F:\FPT\Major\Semester_5\SWP391\SWP391.FENGSHUIKOI-main\KoiFengShui.BE\FungShuiKoi_Repository\obj\Debug\net6.0\ref\FungShuiKoi_Repository.dll
